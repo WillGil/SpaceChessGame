@@ -1,0 +1,169 @@
+=============================================     PIECES GENERATED     =============================================
+Rook   -> (35.2508 ,78.6453)
+Rook   -> (82.8135 ,81.8868)
+Bishop -> (92.6422 ,42.3425)
+Queen  -> (4.79205 ,31.7737)
+Rook   -> (34.8012 ,81.5627)
+Bishop -> (26.318  ,40.9021)
+Bishop -> (33.7615 ,19.4832)
+Queen  -> (85.0612 ,60.0153)
+Queen  -> (59.8165 ,41.896)
+Rook   -> (66.8349 ,82.9572)
+Bishop -> (99.8532 ,65.2355)
+Queen  -> (45.0489 ,7.21101)
+Bishop -> (3.58716 ,98.8868)
+Queen  -> (55.3028 ,78.0245)
+Bishop -> (4.02446 ,40.8838)
+Rook   -> (37.6055 ,93.7034)
+Queen  -> (90.3364 ,38.578)
+Queen  -> (59.9541 ,12.1743)
+Bishop -> (98.7431 ,1.05505)
+Rook   -> (78.2875 ,60.0306)
+Rook   -> (16.7951 ,52.8379)
+Rook   -> (57.8135 ,48.8165)
+Queen  -> (98.2661 ,5.56881)
+Rook   -> (30.5107 ,50.6942)
+Rook   -> (66.7951 ,88.6391)
+Bishop -> (65.5627 ,73.4648)
+Bishop -> (66.9144 ,48.1284)
+Bishop -> (41.0703 ,46.6544)
+Bishop -> (87.2691 ,1.55046)
+Bishop -> (92.9113 ,71.6361)
+Bishop -> (87.6086 ,36.107)
+Queen  -> (32.4709 ,22.9664)
+Queen  -> (80.2783 ,71.8624)
+Bishop -> (53.0703 ,34.1254)
+Bishop -> (85.6116 ,6.16208)
+Bishop -> (15.1437 ,51.8196)
+Bishop -> (2.98777 ,89.0642)
+Rook   -> (15.581  ,37.8165)
+Rook   -> (29.8196 ,8.9052)
+Queen  -> (26.419  ,22.1621)
+Rook   -> (25.0031 ,70.3578)
+Queen  -> (34.208  ,98.107)
+Rook   -> (82.5566 ,47.7676)
+Bishop -> (56.3853 ,100.098)
+Queen  -> (37.5199 ,17.2324)
+Rook   -> (35.315  ,40.2997)
+Queen  -> (18.3945 ,6.33333)
+Rook   -> (70.2263 ,98.1988)
+Bishop -> (64.4985 ,72.2599)
+Bishop -> (1.59633 ,88.315)
+=============================================    INITIAL COLLISIONS    =============================================
+Collision between :Rook   -> (16.7951 ,52.8379) and Bishop -> (15.1437 ,51.8196)
+REMOVING: Bishop -> (15.1437 ,51.8196) From the game
+
+Collision between :Bishop -> (65.5627 ,73.4648) and Bishop -> (64.4985 ,72.2599)
+REMOVING: Bishop -> (64.4985 ,72.2599) From the game
+
+Collision between :Bishop -> (2.98777 ,89.0642) and Bishop -> (1.59633 ,88.315)
+REMOVING: Bishop -> (1.59633 ,88.315) From the game
+
+============================================= PIECES STARTING THE GAME =============================================
+Bishops:  17 Queens:  14  Rooks:  16
+=============================================      START THE GAME      =============================================
+Collision between :Bishop -> (31.5463 ,21.6983) and Queen  -> (32.4709 ,22.9664)
+REMOVING: Queen  -> (32.4709 ,22.9664) From the game
+
+Collision between :Bishop -> (1.12686 ,37.9862) and Queen  -> (0.24314 ,36.3226)
+REMOVING: Queen  -> (0.24314 ,36.3226) From the game
+
+Collision between :Queen  -> (57.1416 ,45.3705) and Rook   -> (57.8135 ,47.2716)
+REMOVING: Rook   -> (57.8135 ,47.2716) From the game
+
+Collision between :Bishop -> (93.123  ,32.6491) and Bishop -> (92.2477 ,34.1174)
+REMOVING: Bishop -> (92.2477 ,34.1174) From the game
+
+Collision between :Bishop -> (24.8188 ,22.2247) and Queen  -> (24.8878 ,23.4781)
+REMOVING: Queen  -> (24.8878 ,23.4781) From the game
+
+Collision between :Queen  -> (95.9401 ,3.69135) and Bishop -> (95.5269 ,4.61006)
+REMOVING: Bishop -> (95.5269 ,4.61006) From the game
+
+Collision between :Rook   -> (24.97   ,10.9392) and Queen  -> (23.8831 ,10.4945)
+REMOVING: Queen  -> (23.8831 ,10.4945) From the game
+
+Collision between :Bishop -> (30.7903 ,37.7383) and Rook   -> (30.8038 ,39.2065)
+REMOVING: Rook   -> (30.8038 ,39.2065) From the game
+
+Collision between :Queen  -> (91.7828 ,7.84868) and Bishop -> (92.75   ,6.84085)
+REMOVING: Bishop -> (92.75   ,6.84085) From the game
+
+Collision between :Rook   -> (9.8365  ,43.8426) and Bishop -> (10.5447 ,45.2514)
+REMOVING: Bishop -> (10.5447 ,45.2514) From the game
+
+Collision between :Bishop -> (29.3454 ,51.0718) and Rook   -> (29.6114 ,51.6693)
+REMOVING: Rook   -> (29.6114 ,51.6693) From the game
+
+Collision between :Rook   -> (35.9185 ,74.873) and Rook   -> (34.3365 ,76.3318)
+REMOVING: Rook   -> (34.3365 ,76.3318) From the game
+
+Collision between :Rook   -> (34.5846 ,86.2108) and Rook   -> (33.5748 ,84.6671)
+REMOVING: Rook   -> (33.5748 ,84.6671) From the game
+
+Collision between :Rook   -> (59.0996 ,96.6941) and Bishop -> (58.3141 ,97.436)
+REMOVING: Bishop -> (58.3141 ,97.436) From the game
+
+Collision between :Bishop -> (97.4608 ,12.0162) and Queen  -> (95.8354 ,11.8327)
+REMOVING: Queen  -> (95.8354 ,11.8327) From the game
+
+Collision between :Rook   -> (79.2444 ,99.2311) and Rook   -> (80.7659 ,97.4268)
+REMOVING: Rook   -> (80.7659 ,97.4268) From the game
+
+Collision between :Rook   -> (37.8889 ,65.6151) and Bishop -> (39.3252 ,65.8016)
+REMOVING: Bishop -> (39.3252 ,65.8016) From the game
+
+Collision between :Queen  -> (66.0904 ,47.4229) and Queen  -> (67.2206 ,46.9896)
+REMOVING: Queen  -> (67.2206 ,46.9896) From the game
+
+Collision between :Bishop -> (9.16006 ,94.1607) and Bishop -> (8.60944 ,94.9807)
+REMOVING: Bishop -> (8.60944 ,94.9807) From the game
+
+Collision between :Bishop -> (78.9914 ,77.8438) and Rook   -> (78.2159 ,77.2005)
+REMOVING: Rook   -> (78.2159 ,77.2005) From the game
+
+Collision between :Queen  -> (48.372  ,92.1316) and Bishop -> (48.8384 ,90.6209)
+REMOVING: Bishop -> (48.8384 ,90.6209) From the game
+
+Collision between :Rook   -> (28.7165 ,75.8368) and Rook   -> (29.8463 ,77.5224)
+REMOVING: Rook   -> (29.8463 ,77.5224) From the game
+
+Collision between :Bishop -> (43.8755 ,28.5421) and Queen  -> (45.0323 ,27.5405)
+REMOVING: Queen  -> (45.0323 ,27.5405) From the game
+
+Collision between :Bishop -> (85.1927 ,54.8064) and Queen  -> (83.3763 ,54.4971)
+REMOVING: Queen  -> (83.3763 ,54.4971) From the game
+
+Collision between :Queen  -> (80.9093 ,44.6058) and Bishop -> (81.1129 ,45.9788)
+REMOVING: Bishop -> (81.1129 ,45.9788) From the game
+
+Collision between :Bishop -> (49.2068 ,32.0278) and Bishop -> (47.7023 ,31.7715)
+REMOVING: Bishop -> (47.7023 ,31.7715) From the game
+
+Collision between :Rook   -> (25.143  ,61.6376) and Rook   -> (23.9957 ,61.3128)
+REMOVING: Rook   -> (23.9957 ,61.3128) From the game
+
+Collision between :Queen  -> (76.1524 ,40.7313) and Queen  -> (75.9044 ,40.7017)
+REMOVING: Queen  -> (75.9044 ,40.7017) From the game
+
+Collision between :Rook   -> (52.8921 ,57.3002) and Queen  -> (54.7567 ,55.9132)
+REMOVING: Queen  -> (54.7567 ,55.9132) From the game
+
+Collision between :Bishop -> (85.9441 ,33.543) and Rook   -> (87.4027 ,32.1634)
+REMOVING: Rook   -> (87.4027 ,32.1634) From the game
+
+Collision between :Bishop -> (77.5633 ,32.3635) and Bishop -> (77.6694 ,32.1362)
+REMOVING: Bishop -> (77.6694 ,32.1362) From the game
+
+Collision between :Rook   -> (53.2316 ,87.7118) and Queen  -> (53.8384 ,86.7144)
+REMOVING: Queen  -> (53.8384 ,86.7144) From the game
+
+Collision between :Rook   -> (72.1976 ,80.5693) and Bishop -> (73.8736 ,79.2031)
+REMOVING: Bishop -> (73.8736 ,79.2031) From the game
+
+===========================================        END OF GAME        =============================================
+NUMBER OF PIECES :Bishops:  5  Queens:  3  Rooks:  6
+SCORES           :Bishops: 14  Queen:7  Rook:12
+MOVES MADE: 2117
+==============                     => BISHOP IS THE WINNER WITH A SCORE OF: 14 <=                     ==============
+===================================================================================================================
